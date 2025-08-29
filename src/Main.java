@@ -20,4 +20,3 @@ public class Main {
                 "Git checkout main -- cambiar de branch \n"+
                 "Git add . __ reemplazar algo");
     }
-}
